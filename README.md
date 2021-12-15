@@ -6,7 +6,7 @@ Table of Contents
 =================
 
 <!--ts-->
-- [Learn Website](#Learn_Website)
+- [Learn Website](#Learn-Website)
   - [Awesome](#Awesome)
   - [Blog](#Blog)
   - [Learning](#Learning)
@@ -14,23 +14,23 @@ Table of Contents
   - [Coding Websites](#Coding-Websites)
   - [News](#News)
   - [Tools](#Tools)
-  - [Archive & Book](#Archive-&-Book)
+  - [Archive Book](#Archive-Book)
   - [Hack](#Hack)
-  - [Job & Interships](#Job-&-Interships)
+  - [Job Interships](#Job-Interships)
   - [Freelancer](#Freelancer)
   - [Search Course](#Search-Course)
   - [Fun](#Fun)
   - [Youtube](#Youtube)
-  - [Mobile App](#Mobile_App)
+  - [Mobile App](#Mobile-App)
   - [Podcasts](#Podcasts)
   - [Certification](#Certification)
   - [AI Learning Link](#AI-Learning-Link)
 - [English](#English)
-  - [Websites & Blogs](#Websites-&-Blogs)
-  - [Videos & Youtube](#Videos-&-Youtube)
-  - [Exercises & Tests](#Exercises-&-Tests)
-  - [Podcasts & Listening](#Podcasts-&Listening)
-  - [Forms & Commmunities](#Forms-&-Commmunities)
+  - [Websites Blogs](#Websites-Blogs)
+  - [Videos Youtube](#Videos-Youtube)
+  - [Exercises Tests](#Exercises-Tests)
+  - [Podcasts Listening](#Podcasts-Listening)
+  - [Forms Commmunities](#Forms-Commmunities)
 - [Legends](#Legends)
   - [Linux](#Linux)
   - [C](#C)
@@ -40,7 +40,7 @@ Table of Contents
   - [Java](#Java)
   - [Python](#Python)
   - [JavaScript](#JavaScript)
-- [SQL & NoSQL](#SQL-&-NoSQL)
+- [SQL NoSQL](#SQL-NoSQL)
   - [PostgreSQL](#PostgreSQL)
   - [MySQL](#MySQL)
   - [Cloud Bigtable](#Cloud-Bigtable)
@@ -72,10 +72,8 @@ Table of Contents
   - [Computer Vision](#Computer-Vision)
   - [Data/Big Data Engineer](#Data/Big-Data-Engineer)
 - [Games](#Games)
-
   - [Unreal Engine](#Unreal-Engine)
   - [Unity](#Unity)
-
 - [Hacking](#Hacking)
 - [Cross Platform Development](#Cross-Platform-Development)
   - [Flutter](#Flutter)
@@ -181,7 +179,7 @@ Table of Contents
 8. [numverify](https://numverify.com/)
 9. [spoonacular](https://spoonacular.com/)
 
-### Archive & Book
+### Archive Book
 
 1. [index-of](http://index-of.es/)
 2. [academia](https://www.academia.edu/)
@@ -204,7 +202,7 @@ Table of Contents
 9. [ctflearn](https://ctflearn.com/)
 10. [portswigger](https://portswigger.net/)
 
-### Job & Interships
+### Job Interships
 
 1. [linkedin](https://www.linkedin.com/)
 2. [glassdoor](https://www.glassdoor.com/index.htm)
@@ -320,7 +318,7 @@ Table of Contents
 
 ## English
 
-### Websites & Blogs
+### Websites Blogs
 
 1. [Talk English](http://www.talkenglish.com/lessonindex.aspx)– Lessons for ALL levels, business, conversations, and more
 2. [English Harmony](http://englishharmony.com/)– A non-native speaker who became fluent and has great tips
@@ -337,7 +335,7 @@ Table of Contents
 13. [Basic English Speaking](https://basicenglishspeaking.com/daily-english-conversation-topics/)– Dialogues on many topics with common phrases
 14. [One Minute English](https://oneminuteenglish.org/en/learn-english/)– English guides and recommendations
 
-### Videos & Youtube
+### Videos Youtube
 
 1. [EngVid.com](http://www.engvid.com/)– More than 1000 videos from various teachers. Sort by level or topic
 2. [TED talks](https://www.ted.com/)– Good for more advanced learners; use the captions or transcripts.
@@ -353,7 +351,7 @@ Table of Contents
 12. [EnglishClass101](https://www.youtube.com/user/ENGLISHCLASS101/videos)- 400+ videos on many different topics
 13. [Worldwide Speak](https://www.youtube.com/channel/UCyhW7ZVHkUgbFDNhbPj5VEw)– Special focus on improving writing, essays, grammar, sentence structure
 
-### Exercises & Tests
+### Exercises Tests
 
 1. [ExamEnglish.com](http://examenglish.com/)
 2. [IELTSpodcast.com](http://ieltspodcast.com/)
@@ -367,7 +365,7 @@ Table of Contents
 10. [Grammar](http://www.learnenglishfeelgood.com/esl-english-grammar-exercises.html)
 11. [Vocabulary](http://www.learnenglishfeelgood.com/vocabulary/index.html)
 
-### Podcasts & Listening
+### Podcasts Listening
 
 1. [All Ears English](https://www.allearsenglish.com/episodes/)– 700+ episodes on study strategies, phrases, American culture
 2. [Real Life Radio](http://reallifeglobal.com/radio-podcast/)– Fun conversations about everyday topics
@@ -378,7 +376,7 @@ Table of Contents
 7. [Listenaminute.com](http://listenaminute.com/)– Only have 1 minute? You can still practice your listening!
 8. [The English we Speak](https://itunes.apple.com/us/podcast/the-english-we-speak)– British English, very short episodes on expressions and slang
 
-### Forms & Commmunities
+### Forms Commmunities
 
 1. [EnglishForums.com](https://www.englishforums.com/)
 2. [UsingEnglish.com](https://www.usingenglish.com/forum/)
@@ -439,7 +437,7 @@ Table of Contents
 1. [javascript.info](https://javascript.info/)
 2. [javascript-algorithms-and-data-structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-## SQL & NoSQL
+## SQL NoSQL
 
 ### PostgreSQL
 

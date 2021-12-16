@@ -40,6 +40,7 @@ Table of Contents
   - [Java](#Java)
   - [Python](#Python)
   - [JavaScript](#JavaScript)
+  - [Go](#Go)
 - [SQL NoSQL](#SQL-NoSQL)
   - [PostgreSQL](#PostgreSQL)
   - [MySQL](#MySQL)
@@ -132,6 +133,7 @@ Table of Contents
 22. [ai.google](https://ai.google/)
 23. [elementsofai](https://www.elementsofai.com/)
 24. [opensource](https://opensource.com/)
+25. [Design Patterns](https://refactoring.guru/design-patterns/catalog)
 
 ### QA Websites
 
@@ -234,6 +236,7 @@ Table of Contents
 2. [localingual](https://www.localingual.com/)
 3. [hunter.io](https://hunter.io/)
 4. [eatthismuch](https://www.eatthismuch.com/)
+5. [excalidraw](https://excalidraw.com/)
 
 ### Youtube
 
@@ -436,6 +439,10 @@ Table of Contents
 
 1. [javascript.info](https://javascript.info/)
 2. [javascript-algorithms-and-data-structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Go
+
+1. [Practical Go Lessons](https://www.practical-go-lessons.com/)
 
 ## SQL NoSQL
 

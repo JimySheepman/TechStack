@@ -337,6 +337,9 @@ Table of Contents
 12. [Learn American English Online](http://www.learnamericanenglishonline.com/)– Simple lessons organized into levels
 13. [Basic English Speaking](https://basicenglishspeaking.com/daily-english-conversation-topics/)– Dialogues on many topics with common phrases
 14. [One Minute English](https://oneminuteenglish.org/en/learn-english/)– English guides and recommendations
+15. [myenglishpages](https://www.myenglishpages.com/business-english/top-1000-business-english-vocabulary.php)-Top 1000 Business English Vocabulary
+16. [englishxp](https://englishxp.co.uk/english-roadmap/)– English Roadmap
+17. [english-exam.org](https://www.english-exam.org/IELTS/)-Preparation for IELTS Exam
 
 ### Videos Youtube
 
@@ -378,6 +381,7 @@ Table of Contents
 6. [British Council Listening Practice](https://learnenglish.britishcouncil.org/en/listening-skills-practice)– Podcasts and videos for various levels
 7. [Listenaminute.com](http://listenaminute.com/)– Only have 1 minute? You can still practice your listening!
 8. [The English we Speak](https://itunes.apple.com/us/podcast/the-english-we-speak)– British English, very short episodes on expressions and slang
+9. [Randall’s ESL Cyber Listening Lab](https://www.esl-lab.com/)-Randall’s ESL Cyber Listening Lab has been providing online English listening comprehension activities
 
 ### Forms Commmunities
 
@@ -442,7 +446,43 @@ Table of Contents
 
 ### Go
 
-1. [Practical Go Lessons](https://www.practical-go-lessons.com/)
+1. [go.dev](https://go.dev/)
+2. [Standard library](https://pkg.go.dev/std@go1.17.6)
+3. [Effective Go](https://go.dev/doc/effective_go)
+4. [Awesome Go](https://github.com/avelino/awesome-go)
+5. [dev.to go](https://dev.to/t/go?utm_source=devglan)
+6. [Go Wiki](https://github.com/golang/go/wiki)
+7. [Find The Best Go Repositories For Your Project](https://golangrepo.com/)
+8. [goto;](https://gotopia.tech/)
+9. [Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
+10. [Ben Hoyt website](https://benhoyt.com/writings/)
+11. [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
+12. [Let's Go: Learn Go in 30 days](https://canro91.github.io/2020/07/05/LetsGoStudyPlan/)
+13. [go-clean-architecture-web-application-boilerplate](https://github.com/bmf-san/go-clean-architecture-web-application-boilerplate)
+14. [GopherAcademy Blog](https://gopheracademy.com/)
+15. [Learn Go in 30 days](https://github.com/canro91/LetsGo)
+16. [Aurélie Vache Go developer blog](https://dev.to/aurelievache)
+17. [Go database/sql tutorial](http://go-database-sql.org/index.html)
+18. [Golang](https://www.youtube.com/watch?v=8m_I4GsDsKY&list=PLOrVtLD1SR8QKpnxtuoZOQ6hWypYoevJB)
+19. [Hatchpad Huddles](https://www.youtube.com/watch?v=N1VG18S1O-A&list=PLOrVtLD1SR8Rt-A6P2rcoBH2Fi-LiJmTQ)
+20. [Golang](https://www.youtube.com/watch?v=uCR_A-Bphl0&list=PLJbE2Yu2zumCe9cO3SIyragJ8pLmVv0z9)
+21. [Go Microservices](https://www.youtube.com/watch?v=1MPWPq2N768&list=PLJbE2Yu2zumAixEws7gtptADSLmZ_pscP)
+22. [Golang Crash Course](https://www.youtube.com/watch?v=kd-8mb6HfGA&list=PL3eAkoh7fypqUQUQPn-bXtfiYT_ZSVKmB)
+23. [Golang Tutorial | Golang in the Cloud](https://www.youtube.com/watch?v=5GINgmS93Mc&list=PL3eAkoh7fyprqqGkfBZTuUdYsUBiKNedK)
+24. [Golang Tutorial | Gin HTTP Framework](https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w)
+25. [Golang Development](https://www.youtube.com/watch?v=W5b64DXeP0o&list=PLzUGFf4GhXBL4GHXVcMMvzgtO8-WEJIoY)
+26. [The Go Developers Guide to AWS](https://www.youtube.com/watch?v=1WXJTlkf0S4&list=PLzUGFf4GhXBJuLzlKMDPPU4VP7CGO1Gg1)
+27. [Go ImmuDB Course](https://www.youtube.com/watch?v=01_wEMdOp1U&list=PLzUGFf4GhXBLGbI9i0CR0TcJqVD3quOvO)
+28. [Master the Go http packages](https://www.youtube.com/watch?v=u3YWN4TF81w&list=PLLf6iaZKV_xuD2D-7UkK_ToRwBBc8nv9P)
+29. [Microservices](https://www.youtube.com/watch?v=QGHP8Bi5Q5E&list=PLRp4oRsit1bxyGj6mkt-CVOffvf4Lhyns)
+30. [Microservice Project - SellingBuddy](https://www.youtube.com/watch?v=ZFjqzUNluV8&list=PLRp4oRsit1bzd6v_1zwNjdBOnGNuvHjWy)
+31. [Alex Pliutau](https://www.youtube.com/c/packagemain/videos)
+32. [Golang ile Web Geliştirme](https://www.youtube.com/watch?v=P5TRNhhq00w&list=PLHnI4uXxaT1aboTBx687QV5cLvGi7882a)
+33. [Go REST API With MYSQL, GIN, GORM & JWT](https://www.youtube.com/watch?v=yJamk5LYC4A&list=PLkVx132FdJZlTc_1gucKZ00b_s45DQlVQ)
+34. [REST API на Golang](https://www.youtube.com/watch?v=LxJLuW5aUDQ&list=PLehOyJfJkFkJ5m37b4oWh783yzVlHdnUH)
+35. [Build REST API in Golang using Echo web framework](https://www.youtube.com/watch?v=29FgeGxJ_Qo&list=PLhyfDOou2eQ1AJsAIRqaEUwx0blZ0UKG2)
+36. [Go Programlama Dili](https://www.youtube.com/watch?v=idIBAHbeaVA&list=PLr48dQTh3FFxj08zcHb9038agrrqaPcop)
+37. [Practical Go Lessons](https://www.practical-go-lessons.com/)
 
 ## SQL NoSQL
 

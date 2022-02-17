@@ -483,6 +483,7 @@ Table of Contents
 35. [Build REST API in Golang using Echo web framework](https://www.youtube.com/watch?v=29FgeGxJ_Qo&list=PLhyfDOou2eQ1AJsAIRqaEUwx0blZ0UKG2)
 36. [Go Programlama Dili](https://www.youtube.com/watch?v=idIBAHbeaVA&list=PLr48dQTh3FFxj08zcHb9038agrrqaPcop)
 37. [Practical Go Lessons](https://www.practical-go-lessons.com/)
+38. [here-we-go](https://github.com/oguzhankiyar/here-we-go)
 
 ## SQL NoSQL
 

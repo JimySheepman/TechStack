@@ -8,6 +8,7 @@ Table of Contents
 <!--ts-->
 - [Learn Website](#Learn-Website)
   - [Awesome](#Awesome)
+  - [Github](#Github)
   - [Blog](#Blog)
   - [Learning](#Learning)
   - [QA Websites](#QA-Websites)
@@ -102,6 +103,31 @@ Table of Contents
 
 1. [How to Study for Exams](https://www.youtube.com/playlist?list=PL7BImOT2srcEPwr4hSVrqvWYh1SV7LBEx)
 2. [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+
+### Github
+
+[Github](https://github.com/karan/Projects)
+[Github](https://github.com/danistefanovic/build-your-own-x)
+[Github](https://github.com/practical-tutorials/project-based-learning)
+[Github](https://github.com/Xtremilicious/projectlearn-project-based-learning)
+[Github](https://github.com/rby90/Project-Based-Tutorials-in-C)
+[Github](https://github.com/lukasz-madon/awesome-remote-job)
+[Github](https://github.com/amit-davidson/awesome-golang-workshops)
+[Github](https://github.com/fcambus/nginx-resources#readme)
+[Github](https://github.com/binhnguyennus/awesome-scalability)
+[Github](https://github.com/LukeMwila/multi-container-nginx-react-node-mongo)
+[Github](https://github.com/matiassingers/awesome-readme)
+[Github](https://github.com/orgs/TutorialEdge/repositories?q=&type=all&language=go&sort=)
+[Github](https://github.com/github/gitignore)
+[Github](https://github.com/public-apis/public-apis#index)
+[Github](https://github.com/jwasham/coding-interview-university)
+[Github](https://github.com/yangshun/tech-interview-handbook)
+[Github](https://github.com/public-apis/public-apis)
+[Github](https://github.com/ripienaar/free-for-dev)
+[Github](https://github.com/florinpop17/app-ideas)
+[Github](https://github.com/jlevy/the-art-of-command-line)
+[Github](https://github.com/trimstray/the-book-of-secret-knowledge)
+[Github](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
 ### Blog
 

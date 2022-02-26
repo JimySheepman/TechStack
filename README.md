@@ -818,6 +818,11 @@ Table of Contents
 3. [IBM Cloud](https://developer.ibm.com/components/cloud-ibm/tutorials/)
 4. [AWS](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
 5. [Microsoft Azure](https://docs.microsoft.com/en-us/learn/azure/)
+6. [AWS Lambda](https://aws.amazon.com/lambda/getting-started/)
+7. [Google Cloud Function](https://cloud.google.com/functions/)
+8. [Firebase](https://firebase.google.com/)
+9. [AWS Frontend Web Mobile](https://aws.amazon.com/products/frontend-web-mobile/)
+10. [AWS Serverless Application Lens](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf)
 
 ## Roadmap
 

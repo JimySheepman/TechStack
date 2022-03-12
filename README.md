@@ -95,6 +95,8 @@ Table of Contents
   - [Software Engineering](#Software-Engineering)
   - [WEB](#WEB)
   - [Hack Book](#Hack-Book)
+  - [Personal Book](#Personal-Book)
+- [Movie](#Movie)
 <!--te-->
 
 ## Learn Website
@@ -207,6 +209,7 @@ Table of Contents
 8. [numverify](https://numverify.com/)
 9. [spoonacular](https://spoonacular.com/)
 10. [Youtube Playlist Length](https://ytplaylist-len.herokuapp.com/)
+11. [SpotiFlyer](https://shabinder.github.io/SpotiFlyer/)
 
 ### Archive Book
 
@@ -299,6 +302,21 @@ Table of Contents
 30. [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 31. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 32. [NeuralNine](https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA)
+33. [learncode academy](https://www.youtube.com/user/learncodeacademy)
+34. [programming with mosh](https://www.youtube.com/c/programmingwithmosh)
+35. [cs dojo](https://www.youtube.com/c/CSDojo)
+36. [traversy media](https://www.youtube.com/c/TraversyMedia)
+37. [techsith](https://www.youtube.com/c/Techsithtube)
+38. [academind](https://www.youtube.com/c/Academind)
+39. [fun fun function](https://www.youtube.com/c/funfunfunction)
+40. [the coding train](https://www.youtube.com/c/TheCodingTrain)
+41. [wes boss](https://www.youtube.com/c/WesBos)
+42. [thapa technical](https://www.youtube.com/c/ThapaTechnical)
+43. [hitesh choudhary](https://www.youtube.com/c/HiteshChoudharydotcom)
+44. [codewithhary](https://www.youtube.com/c/CodeWithHarry)
+45. [Geeky Shows](https://www.youtube.com/user/GeekyShow1)
+46. [code schafer](https://www.youtube.com/c/Coreyms)
+47. [telusko](https://www.youtube.com/c/Telusko)
 
 ### Mobile App
 
@@ -312,6 +330,7 @@ Table of Contents
 8. Encode
 9. Codecademy Go
 10. DataCamp
+11. Mimo
 
 ### Podcasts
 
@@ -1060,3 +1079,32 @@ Table of Contents
 17. Kali Linux Web Penetration Testing Cookbook
 18. Kali Linux 2: Windows Penetration Testing
 19. Mastering Kali Linux Wireless Pentesting
+
+### Personal Book
+
+1. 12 rules for life - jordan b. peterson
+2. atomic habits - james clear
+3. deep work - cal newport
+4. essentialism - greg mckeown
+5. the obstacle is the way - ryan holiday
+
+## Movie
+
+1. Sneakers
+2. the social Network
+3. office space
+4. hackers
+5. wargames
+6. the imitation game
+7. Pırates of silicon valley
+8. jobs
+9. source code
+10. the founder
+11. the social dilemma
+12. codewll
+13. cssbattle
+14. codepen
+15. 100 days css
+16. codier.io
+17. javascript30
+18. Frontend mentor
